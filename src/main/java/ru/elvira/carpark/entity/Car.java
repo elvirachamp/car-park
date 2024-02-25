@@ -13,13 +13,9 @@ public class Car {
         return "drive";
     }
 
-    ;
-
     String stop() {
         return "stop";
     }
-
-    ;
 
     public static void main(String[] args) {
         Car car1 = new Car("blue", "Toyota");
